@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docsqu
+
+website:
+  title: "bayesian-boys"
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - schedule.qmd
+
+
+format:
+  html:
+    theme:
+      - darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
