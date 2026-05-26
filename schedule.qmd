@@ -5,7 +5,7 @@ page-layout: full
 
 SR = *Statistical Rethinking* by Richard McElreath
 
-SR(T) = Solomon Kurz's [translation of McElreath's book](https://solomon.quarto.pub/sr/). McElreath's R code is primarily in base R, and much of the Bayesian sampling utilizes an idiosyncratic package of his own design. Kurz's workbook provides code for all of McElreath's exercises while using tidyverse & [brms](https://github.com/paul-buerkner/brms) syntax.
+SR(K) = Solomon Kurz's [translation of McElreath's book](https://solomon.quarto.pub/sr/). McElreath's R code is primarily in base R, and much of the Bayesian sampling utilizes a neat but idiosyncratic package of his own design. Kurz's workbook provides code for all of McElreath's exercises using tidyverse & [brms](https://github.com/paul-buerkner/brms) syntax.
 
 BR, = *Bayes Rules* by Johnson, Ott, and Dogucu
 
@@ -20,7 +20,7 @@ BR, = *Bayes Rules* by Johnson, Ott, and Dogucu
 +------+-------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
 | 2    | TBA         | Bayesian probabilities and 'sampling from the imaginary' | - Chapters 2 & 3 in SR                                                                                                              |
 |      |             |                                                          |                                                                                                                                     |
-|      |             |                                                          | - Chapters 2 & 3 in SR(T)                                                                                                           |
+|      |             |                                                          | - Chapters 2 & 3 in SR(K)                                                                                                           |
 |      |             |                                                          |                                                                                                                                     |
 |      |             |                                                          | - [The Garden of Forking Data lecture](https://www.youtube.com/watch?v=pGVkCWlXnlg&list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14&index=2) |
 +------+-------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+

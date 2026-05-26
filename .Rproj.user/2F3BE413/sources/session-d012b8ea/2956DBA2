@@ -3,7 +3,7 @@
     "path": "~/git_repos/bayesian-boys/schedule.qmd",
     "project_path": "schedule.qmd",
     "type": "quarto_markdown",
-    "hash": "1569598173",
+    "hash": "2165182146",
     "contents": "",
     "dirty": false,
     "created": 1779825821505.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "437:495.20001220703125"
+        "rmdVisualModeLocation": "249:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1779828102,
+    "lastKnownWriteTime": 1779831831,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1779828102501,
+    "last_content_update": 1779831831955,
     "read_only": false,
     "read_only_alternatives": []
 }

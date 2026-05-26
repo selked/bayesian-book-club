@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: docsqu
+  output-dir: docs
 
 website:
-  title: "bayesian-boys"
+  title: "Bayesian Book Club"
   navbar:
     pinned: true
     right:
