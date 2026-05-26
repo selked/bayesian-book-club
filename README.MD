@@ -1,1 +1,1 @@
-A simple website for keeping track of a reading series for Bayesian inference
+A simple website for keeping track of a reading series on Bayesian inference
