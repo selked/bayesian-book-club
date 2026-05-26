@@ -1,0 +1,10 @@
+---
+title: "References and Further Reading"
+bibliography: references.bib
+nocite: |
+  @*
+csl: american-sociological-association.csl
+---
+
+::: {#refs}
+:::

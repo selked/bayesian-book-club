@@ -10,8 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - schedule.qmd
-
-
+      - references.qmd
+    
+      
 format:
   html:
     theme:
