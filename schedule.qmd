@@ -1,13 +1,15 @@
 ---
 title: "Schedule"
+bibliography: references.bib
+csl: american-sociological-association.csl
 page-layout: full
 ---
 
 SR = *Statistical Rethinking* by Richard McElreath
 
-SR(K)[^1] = Solomon Kurz's [translation of McElreath's book](https://solomon.quarto.pub/sr/).
+SR(K)[^1] = Solomon Kurz's [translation of McElreath's book](https://solomon.quarto.pub/sr2/).
 
-[^1]: McElreath's R code is primarily in base R, and much of the Bayesian sampling utilizes a neat but idiosyncratic package of his own design. Kurz's workbook provides code for all of McElreath's exercises using tidyverse & [brms](https://github.com/paul-buerkner/brms) syntax.
+[^1]: McElreath's R code is primarily in base R, and much of the Bayesian sampling in SR utilizes a neat but idiosyncratic package of his own design. Kurz's workbook provides code for all of McElreath's exercises using tidyverse & [brms](https://github.com/paul-buerkner/brms) syntax.
 
 BR = *Bayes Rules* by Johnson, Ott, and Dogucu
 
@@ -26,7 +28,11 @@ BR = *Bayes Rules* by Johnson, Ott, and Dogucu
 |         |             |                                                          |                                                                                                                                     |
 |         |             |                                                          | - [The Garden of Forking Data lecture](https://www.youtube.com/watch?v=pGVkCWlXnlg&list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14&index=2) |
 +---------+-------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-| 3       | TBA         |                                                          |                                                                                                                                     |
+| 3       | TBA         | Some practical and empirical grounding                   | - [@brauer_employers_2021]                                                                                                          |
+|         |             |                                                          |                                                                                                                                     |
+|         |             |                                                          | - [@Makowski2019]                                                                                                                   |
+|         |             |                                                          |                                                                                                                                     |
+|         |             |                                                          | - [@stanton_evaluating_2021]                                                                                                        |
 +---------+-------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
 | 4       | TBA         |                                                          |                                                                                                                                     |
 +---------+-------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+

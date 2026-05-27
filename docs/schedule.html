@@ -23,7 +23,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -140,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>SR = <em>Statistical Rethinking</em> by Richard McElreath</p>
-<p>SR(K)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> = Solomon Kurz’s <a href="https://solomon.quarto.pub/sr/">translation of McElreath’s book</a>.</p>
+<p>SR(K)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> = Solomon Kurz’s <a href="https://solomon.quarto.pub/sr2/">translation of McElreath’s book</a>.</p>
 <p>BR = <em>Bayes Rules</em> by Johnson, Ott, and Dogucu</p>
 <table class="caption-top table">
 <thead>
@@ -175,8 +194,12 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>3</td>
 <td>TBA</td>
-<td></td>
-<td></td>
+<td>Some practical and empirical grounding</td>
+<td><ul>
+<li><p><span class="citation" data-cites="brauer_employers_2021">(<a href="#ref-brauer_employers_2021" role="doc-biblioref">Brauer, Day, and Hammond 2021</a>)</span></p></li>
+<li><p><span class="citation" data-cites="Makowski2019">(<a href="#ref-Makowski2019" role="doc-biblioref">Makowski, Ben-Shachar, and Lüdecke 2019</a>)</span></p></li>
+<li><p><span class="citation" data-cites="stanton_evaluating_2021">(<a href="#ref-stanton_evaluating_2021" role="doc-biblioref">Stanton 2021</a>)</span></p></li>
+</ul></td>
 </tr>
 <tr class="even">
 <td>4</td>
@@ -202,10 +225,21 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-brauer_employers_2021" class="csl-entry" role="listitem">
+Brauer, Jonathan R., Jacob C. Day, and Brittany M. Hammond. 2021. <span>“Do Employers <span>‘Walk the Talk’</span> After All? An Illustration of Methods for Assessing Signals in Underpowered Designs.”</span> <em>Sociological Methods &amp; Research</em> 50(4):1801–41. doi:<a href="https://doi.org/10.1177/0049124119826158">10.1177/0049124119826158</a>.
+</div>
+<div id="ref-Makowski2019" class="csl-entry" role="listitem">
+Makowski, Dominique, Mattan S. Ben-Shachar, and Daniel Lüdecke. 2019. <span>“bayestestR: Describing Effects and Their Uncertainty, Existence and Significance Within the Bayesian Framework.”</span> <em>Journal of Open Source Software</em> 4(40):1541. doi:<a href="https://doi.org/10.21105/joss.01541">10.21105/joss.01541</a>.
+</div>
+<div id="ref-stanton_evaluating_2021" class="csl-entry" role="listitem">
+Stanton, Jeffrey M. 2021. <span>“Evaluating Equivalence and Confirming the Null in the Organizational Sciences.”</span> <em>Organizational Research Methods</em> 24(3):491–512. doi:<a href="https://doi.org/10.1177/1094428120921934">10.1177/1094428120921934</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>McElreath’s R code is primarily in base R, and much of the Bayesian sampling utilizes a neat but idiosyncratic package of his own design. Kurz’s workbook provides code for all of McElreath’s exercises using tidyverse &amp; <a href="https://github.com/paul-buerkner/brms">brms</a> syntax.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>McElreath’s R code is primarily in base R, and much of the Bayesian sampling in SR utilizes a neat but idiosyncratic package of his own design. Kurz’s workbook provides code for all of McElreath’s exercises using tidyverse &amp; <a href="https://github.com/paul-buerkner/brms">brms</a> syntax.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
