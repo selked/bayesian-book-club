@@ -7,3 +7,9 @@ This website is home to the Bayesian Book Club. Just a few frequentist fellas lo
 We follow along with a few select readings and meet up once or twice a month to discuss what we've learned. 
 
 For the most part, we will work through Richard McElreath's *Statistical Rethinking*, along with some assorted book chapters, empirical articles, and lecture recordings.
+
+```{r, echo = FALSE}
+load("ja_post.rda")
+
+my_plot
+```

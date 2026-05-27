@@ -3,7 +3,7 @@
     "path": "~/git_repos/bayesian-boys/schedule.qmd",
     "project_path": "schedule.qmd",
     "type": "quarto_markdown",
-    "hash": "2165182146",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1779825821505.0,
@@ -19,7 +19,7 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "249:0"
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
     "lastKnownWriteTime": 1779831831,
