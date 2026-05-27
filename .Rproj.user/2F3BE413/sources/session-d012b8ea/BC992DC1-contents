@@ -3,6 +3,8 @@ project:
   output-dir: docs
 
 website:
+  repo-url: https://github.com/selked/bayesian-book-club
+  repo-actions: [source]
   title: "Bayesian Book Club"
   navbar:
     pinned: true

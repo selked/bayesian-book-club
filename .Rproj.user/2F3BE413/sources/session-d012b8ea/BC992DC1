@@ -3,7 +3,7 @@
     "path": "~/git_repos/bayesian-boys/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3774602550",
     "contents": "",
     "dirty": false,
     "created": 1779823315195.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,4",
+        "cursorPosition": "6,23",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1779838246,
+    "lastKnownWriteTime": 1779844174,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1779838246821,
+    "last_content_update": 1779844174925,
     "read_only": false,
     "read_only_alternatives": []
 }
