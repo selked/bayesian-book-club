@@ -3,7 +3,7 @@
     "path": "~/git_repos/bayesian-boys/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "4199093057",
     "contents": "",
     "dirty": false,
     "created": 1779823314776.0,
@@ -18,15 +18,15 @@
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
         "docOutlineSize": "197",
-        "cursorPosition": "14,3",
-        "scrollLine": "0"
+        "cursorPosition": "10,42",
+        "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1779840674,
+    "lastKnownWriteTime": 1779841728,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1779840674466,
+    "last_content_update": 1779841728244,
     "read_only": false,
     "read_only_alternatives": []
 }

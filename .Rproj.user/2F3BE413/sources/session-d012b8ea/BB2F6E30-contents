@@ -42,6 +42,14 @@
   url = {https://solomon.quarto.pub/sr/}
 }
 
+@book{corettaQuantData2025,
+  title = {Quantitative data analysis for linguists in R},
+  author = {Coretta, Stefano},
+  year = {2025},
+  edition = {version 1.4.0},
+  url = {https://stefanocoretta.github.io/qdal/}
+}
+
 @book{johnson_bayes_2022,
 	location = {Boca Raton},
 	edition = {1},

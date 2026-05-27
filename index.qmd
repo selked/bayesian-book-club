@@ -8,8 +8,4 @@ We follow along with a few select readings and meet up once or twice a month to 
 
 For the most part, we will work through Richard McElreath's *Statistical Rethinking*, along with some assorted book chapters, empirical articles, and lecture recordings.
 
-```{r, echo = FALSE}
-load("ja_post.rda")
-
-my_plot
-```
+![](ja_post.png){fig-alt="An image of a posterior predictive check that plots the true 'y' against the value of 'y' from 500 draws of the posterior sample"}
