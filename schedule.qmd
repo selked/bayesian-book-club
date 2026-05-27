@@ -2,6 +2,8 @@
 title: "Schedule"
 bibliography: references.bib
 csl: american-sociological-association.csl
+nocite: |
+ @huntington-klein_effect_2025
 page-layout: full
 ---
 
@@ -36,9 +38,9 @@ BR = *Bayes Rules* by Johnson, Ott, and Dogucu
 |         |             |                                                          |                                                                                                                                             |
 |         |             |                                                          | - @stanton_evaluating_2021                                                                                                                  |
 +---------+-------------+----------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-| 4       | TBA         | Bayesian regression & causal inference                   | - Chapter 5 of SR                                                                                                                           |
+| 4       | TBA         | Bayesian regression & causal inference                   | - Chapter 5 & 6 of SR                                                                                                                       |
 |         |             |                                                          |                                                                                                                                             |
-|         |             |                                                          | - Chapter 5 of SR(K)                                                                                                                        |
+|         |             |                                                          | - Chapter 5 & 6 of SR(K)                                                                                                                    |
 |         |             |                                                          |                                                                                                                                             |
 |         |             |                                                          | - Optional supplements:                                                                                                                     |
 |         |             |                                                          |                                                                                                                                             |
