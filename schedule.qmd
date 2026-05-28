@@ -3,7 +3,7 @@ title: "Schedule"
 bibliography: references.bib
 csl: american-sociological-association.csl
 nocite: |
- @huntington-klein_effect_2025
+ @huntington-klein_effect_2025, @mcelreath_statistical_2020, @johnson_bayes_2022
 page-layout: full
 ---
 
@@ -11,7 +11,7 @@ SR = *Statistical Rethinking* by Richard McElreath
 
 SR(K)[^1] = Solomon Kurz's [translation of McElreath's book](https://solomon.quarto.pub/sr2/).
 
-[^1]: McElreath's R code is primarily in base R, and much of the Bayesian sampling in SR utilizes a neat but idiosyncratic package of his own design. Kurz's workbook provides code for all of McElreath's exercises using tidyverse & [brms](https://github.com/paul-buerkner/brms) syntax.
+[^1]: McElreath's R code is primarily in base R, and much of the Bayesian sampling in SR utilizes a neat but idiosyncratic package of his own design. Kurz's workbook provides code for all of McElreath's exercises using tidyverse & [brms](https://github.com/paul-buerkner/brms) syntax. We'll make much use of the brms package, which allows us to specify Bayesian models using the same kind of syntax that we're all familiar with via lm() or lme4(). /n This means that Kurz's text is best utilized as a companion piece to SR---particularly for the model-specification procedures in R---rather than a wholly separate piece. 
 
 BR = *Bayes Rules* by Johnson, Ott, and Dogucu
 

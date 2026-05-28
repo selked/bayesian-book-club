@@ -11,7 +11,7 @@
     "href": "schedule.html#footnotes",
     "title": "Schedule",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nMcElreath’s R code is primarily in base R, and much of the Bayesian sampling in SR utilizes a neat but idiosyncratic package of his own design. Kurz’s workbook provides code for all of McElreath’s exercises using tidyverse & brms syntax.↩︎"
+    "text": "Footnotes\n\n\nMcElreath’s R code is primarily in base R, and much of the Bayesian sampling in SR utilizes a neat but idiosyncratic package of his own design. Kurz’s workbook provides code for all of McElreath’s exercises using tidyverse & brms syntax. We’ll make much use of the brms package, which allows us to specify Bayesian models using the same kind of syntax that we’re all familiar with via lm() or lme4(). /n This means that Kurz’s text is best utilized as a companion piece to SR—particularly for the model-specification procedures in R—rather than a wholly separate piece.↩︎"
   },
   {
     "objectID": "README.html",
