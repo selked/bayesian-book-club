@@ -3,7 +3,7 @@ title: "Welcome!"
 about:
   template: trestles
   image: ja_post.png
-  image-alt: "500 draws of Y-hat from a posterior probability distribution, with the original Y value overlaid"
+  image-alt: "500 draws of Y-hat from a posterior probability distribution, with the original Y values overlaid"
 ---
 
 This website is home to the Bayesian Book Club. Just a few frequentist fellas looking to expand our methodological horizons.
